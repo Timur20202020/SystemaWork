@@ -23,6 +23,7 @@ import androidx.compose.ui.unit.sp
 fun  screen2(){
 
 //    Комментарии к коду
+//    Второй комментарий
     Scaffold(
             floatingActionButton = {
                 FloatingActionButton(onClick = { /*TODO*/ },
