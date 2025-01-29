@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
 
-                    screen()
+                    screen2()
                 }
             }
         }
@@ -39,6 +39,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
 
-       screen()
+       screen2()
 
 }
